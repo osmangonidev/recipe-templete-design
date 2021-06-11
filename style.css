@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+  border: 1px solid #dfdfdf;
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: #4A4A4A;
+  font-size:16px;
+}
+header {
+  padding: 20px;
+}
+
+/* features recipe style start*/
+
+.feature-recipe {
+
+}
+.features-recipe img {
+}
+.detials-wrapper {
+    margin: 10px 20px;
+}
+.feature-recipe .details {
+     padding:30px 0px;
+     text-align: center;
+     line-height:22.5px;
+     border-bottom: 3px solid #FF700C;
+}
+.feature-recipe .title {
+    color:#4A4A4A;
+    font-size: 35px;
+    padding: 15px 0px;
+}
+.feature-recipe .description {
+    padding: 10px 0px;
+}
+.feature-recipe button {
+    background-color: #FF700C;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    border: none;
+    margin: 15px 0px;
+}
+
+/* recipes style section start */
+
+.recipes{
+    margin:50px 0px;
+    height:450px;
+}
+.recipes .title{
+    padding:10px;
+    font-size:25px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.recipe{
+    width: 50%;
+    padding:10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.recipe-1{
+    float:left;
+}
+.recipe-2{
+    float:right;
+}
+.recipe img{
+    max-width: 100%;
+    border-radius: 5px;
+
+}
+.recipe h3{
+    text-align: center;
+
+}
+.recipe button{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #FF700C;
+    padding: 10px 15px;
+    border:none;
+    border-radius:5px;
+    margin: 25px 0px;
+}
+
+/* social icons style section start */
+
+.social-icons{
+    background-color: #FF9D57;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.icons{
+
+}
+.icons img{
+    width:40px;
+    padding: 10px;
+
+}
+.social-icons h5{
+    font-size:16px;
+    padding:10px;
+    color: white;
+}
+
+/* footer section style start */
+
+footer{
+    padding:30px;
+}
+footer a{
+    text-decoration: none;
+    color:#4A4A4A ;
+    font-size: 15px;
+}
